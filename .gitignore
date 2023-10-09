@@ -1,0 +1,9 @@
+.vscode/
+.conda/
+docs/
+/models/
+__pycache__/
+data/test/
+data/train/
+PabloTorresCasoModulo8/
+PabloTorresCasoModulo8.rar
